@@ -1,0 +1,29 @@
+# Nmap 7.98 scan initiated Fri May 29 06:44:50 2026 as: /usr/lib/nmap/nmap -sS -oN results.txt 192.168.93.128/24
+Nmap scan report for 192.168.93.1
+Host is up (0.0012s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+445/tcp open  microsoft-ds
+MAC Address: 00:50:56:C0:00:08 (VMware)
+
+Nmap scan report for 192.168.93.2
+Host is up (0.00034s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE    SERVICE
+53/tcp filtered domain
+MAC Address: 00:50:56:FF:34:EA (VMware)
+
+Nmap scan report for 192.168.93.254
+Host is up (0.00035s latency).
+All 1000 scanned ports on 192.168.93.254 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:EA:14:C6 (VMware)
+
+Nmap scan report for 192.168.93.128
+Host is up (0.00015s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Fri May 29 06:45:04 2026 -- 256 IP addresses (4 hosts up) scanned in 14.63 seconds
