@@ -1,0 +1,33 @@
+NETWORK SCAN PROJECT REPORT
+
+1. Introduction
+   This project was performed to understand local network scanning, open port identification, service detection, and packet analysis using Nmap and Wireshark.
+
+2. Tools Used
+
+* Kali Linux
+* Nmap
+* Wireshark
+* VMware
+
+3. Commands Used
+   sudo nmap -sS 192.168.93.0/24
+
+sudo nmap -sV -O 192.168.93.0/24
+
+4. Findings
+
+* Multiple active hosts were detected in the local network.
+* Windows and Linux operating systems were identified.
+* Open ports such as 80 and 53 were discovered.
+* Apache HTTP service was detected on port 80.
+* Wireshark successfully captured TCP SYN, ACK, ARP, and retransmission packets.
+
+5. Security Risks
+
+* Open HTTP service may expose unencrypted traffic.
+* SMB and RPC services may increase attack surface.
+* Open ports can potentially be exploited if not secured.
+
+6. Conclusion
+   This project helped in understanding network reconnaissance, TCP SYN scanning, service enumeration, operating system detection, and packet capture analysis using Wireshark.
