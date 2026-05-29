@@ -1,6 +1,6 @@
-Network Scan Project
+# Network Scan Project
 
-Objective
+## Objective
 
 The objective of this project is to perform local network scanning using Nmap and analyze captured packets using Wireshark.
 
