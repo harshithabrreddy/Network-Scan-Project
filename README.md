@@ -41,6 +41,16 @@ sudo nmap -sV -O 192.168.93.0/24
 <img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/324c0b1f-0342-4fdb-949b-cbf59de2fa25" />
 <img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/212750d1-8fc7-4a4a-8807-cd8ed2f20c24" />
 
+## Final_results.txt
+<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/3c87f950-037c-4a1a-942a-8a96dcc3ce0c" />
+
+## Scan_Capture.pcapng
+<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/9d03adb7-2ccb-426c-a06d-e381b12e6efc" />
+<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/677af3d6-076f-47f3-ac46-2b509423f7fe" />
+<img width="1920" height="1080" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/949f4910-5777-422c-91ea-abbe28e25234" /><img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/93882b8f-66eb-4dc3-b4d7-54a40d97c729" />
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/d5c1816b-d42d-4e6f-9478-338f2ff9801d" />
+<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/890b28c8-ecc6-49e1-a78d-a8e3433029fe" />
+
 ## Conclusion
 
 This project helped in understanding network reconnaissance, TCP SYN scanning, service enumeration, operating system detection, and packet analysis using Wireshark.
